@@ -1,0 +1,101 @@
+supplier_id,supplier_name,supplier_type,country,city,material_category,payment_terms,supplier_rating,active_flag
+SUP0001,Global Industries,Manufacturer,Germany,Stuttgart,Sensors & Instrumentation,Net 60,4.2,Y
+SUP0002,Vertex GmbH,OEM Partner,United States,Detroit,Door Systems,Net 45,3.9,Y
+SUP0003,Central Industries,OEM Partner,China,Suzhou,Structural Steel,Net 45,4.3,Y
+SUP0004,Apex Electric,Manufacturer,United States,Chicago,Control Electronics,Net 45,4.8,Y
+SUP0005,Metro Industries,OEM Partner,India,Coimbatore,Control Electronics,Advance Payment,3.9,Y
+SUP0006,Reliable Engineering Co.,OEM Partner,Italy,Turin,Ropes & Suspension,Net 45,3.9,Y
+SUP0007,Global GmbH,Manufacturer,Japan,Osaka,Control Electronics,Net 90,4.8,Y
+SUP0008,NovaTech Engineering Co.,Distributor,Japan,Yokohama,Cabling & Wiring,Net 45,4.4,Y
+SUP0009,Metro Precision Works,Component Fabricator,Vietnam,Hanoi,Control Electronics,Net 60,3.8,Y
+SUP0010,Zenith Systems,Manufacturer,United States,Chicago,Safety Components,Advance Payment,4.3,Y
+SUP0011,Reliable Systems,OEM Partner,Poland,Wroclaw,Motors & Drives,Net 30,3.8,N
+SUP0012,Vantage Technologies,Manufacturer,Germany,Munich,Fasteners & Hardware,Net 90,3.8,Y
+SUP0013,Progressive Fabrication,Manufacturer,Vietnam,Hanoi,Hydraulic Components,Net 30,4.1,Y
+SUP0014,Zenith Motors Ltd.,Distributor,Taiwan,Kaohsiung,Fasteners & Hardware,Net 45,3.0,Y
+SUP0015,Titan Systems,Component Fabricator,China,Shenzhen,Sensors & Instrumentation,Net 45,3.1,Y
+SUP0016,Central Manufacturing,Manufacturer,China,Suzhou,Guide Rails,Net 45,3.7,Y
+SUP0017,NovaTech Corp.,Component Fabricator,India,Chennai,Safety Components,Advance Payment,3.5,Y
+SUP0018,Precision GmbH,OEM Partner,Vietnam,Ho Chi Minh City,Sensors & Instrumentation,Net 60,4.2,Y
+SUP0019,Vantage Manufacturing,Manufacturer,China,Suzhou,Hydraulic Components,Net 30,3.5,Y
+SUP0020,Zenith Engineering Co.,Component Fabricator,Poland,Wroclaw,Cabling & Wiring,Net 45,3.3,Y
+SUP0021,Progressive Engineering Co.,OEM Partner,India,Chennai,Fasteners & Hardware,Net 30,4.7,Y
+SUP0022,Continental Motors Ltd.,Component Fabricator,India,Chennai,Motors & Drives,Net 45,3.9,Y
+SUP0023,Advanced Electric,Component Fabricator,Poland,Katowice,Safety Components,Net 30,4.0,Y
+SUP0024,Integrated Manufacturing,Manufacturer,India,Pune,Control Electronics,Advance Payment,3.3,Y
+SUP0025,National Components,OEM Partner,India,Coimbatore,Cabling & Wiring,Net 30,3.7,Y
+SUP0026,Alliance Systems,Component Fabricator,Poland,Wroclaw,Structural Steel,Net 60,4.1,Y
+SUP0027,NovaTech GmbH,Distributor,United States,Cleveland,Sensors & Instrumentation,Net 45,3.4,Y
+SUP0028,United Electric,Manufacturer,India,Coimbatore,Door Systems,Net 45,4.2,N
+SUP0029,Vertex GmbH,Manufacturer,South Korea,Busan,Motors & Drives,Net 90,3.7,Y
+SUP0030,Summit Engineering Co.,OEM Partner,Germany,Munich,Sensors & Instrumentation,Net 30,3.9,Y
+SUP0031,Integrated Corp.,Distributor,Poland,Katowice,Hydraulic Components,Net 90,3.7,Y
+SUP0032,Advanced GmbH,Manufacturer,United States,Detroit,Cabin Fittings,Net 45,4.9,Y
+SUP0033,Sterling GmbH,Component Fabricator,China,Shanghai,Motors & Drives,Net 45,4.0,Y
+SUP0034,Central Manufacturing,Manufacturer,Germany,Munich,Sensors & Instrumentation,Net 45,3.5,Y
+SUP0035,Metro Fabrication,Manufacturer,South Korea,Busan,Hydraulic Components,Net 90,4.4,Y
+SUP0036,Advanced Industries,OEM Partner,India,Coimbatore,Motors & Drives,Advance Payment,3.4,Y
+SUP0037,Central Systems,Manufacturer,India,Pune,Hydraulic Components,Net 30,4.1,Y
+SUP0038,Global Components,Manufacturer,United States,Chicago,Safety Components,Net 90,3.0,Y
+SUP0039,Prime Technologies,OEM Partner,Taiwan,Kaohsiung,Sensors & Instrumentation,Net 60,3.3,Y
+SUP0040,Apex Engineering Co.,Manufacturer,South Korea,Incheon,Fasteners & Hardware,Net 60,4.1,Y
+SUP0041,Vantage Industries,Manufacturer,India,Pune,Sensors & Instrumentation,Net 90,4.4,Y
+SUP0042,Global Motors Ltd.,Manufacturer,China,Suzhou,Control Electronics,Net 45,4.1,Y
+SUP0043,Summit Technologies,Manufacturer,Italy,Milan,Door Systems,Net 45,3.9,N
+SUP0044,United Technologies,OEM Partner,Italy,Milan,Sensors & Instrumentation,Net 30,3.8,Y
+SUP0045,Sterling Precision Works,Manufacturer,Germany,Hamburg,Cabin Fittings,Net 30,3.3,Y
+SUP0046,Pinnacle Electric,Component Fabricator,South Korea,Busan,Motors & Drives,Net 45,3.6,Y
+SUP0047,Advanced Manufacturing,Distributor,India,Chennai,Safety Components,Net 30,3.8,Y
+SUP0048,United Systems,Manufacturer,China,Suzhou,Hydraulic Components,Net 90,4.5,Y
+SUP0049,Dynamic GmbH,Distributor,Vietnam,Ho Chi Minh City,Sensors & Instrumentation,Net 30,4.2,Y
+SUP0050,Pacific Components,Manufacturer,China,Shanghai,Structural Steel,Net 45,3.1,Y
+SUP0051,Dynamic Systems,OEM Partner,Germany,Munich,Guide Rails,Net 60,4.2,Y
+SUP0052,Elite Engineering Co.,Component Fabricator,South Korea,Incheon,Control Electronics,Net 60,3.8,Y
+SUP0053,Global Industries,Manufacturer,China,Shenzhen,Guide Rails,Advance Payment,3.7,Y
+SUP0054,Pinnacle Motors Ltd.,OEM Partner,India,Coimbatore,Motors & Drives,Net 30,4.3,Y
+SUP0055,Vertex Components,Distributor,Japan,Yokohama,Fasteners & Hardware,Net 45,4.5,Y
+SUP0056,Global Engineering Co.,Manufacturer,Poland,Katowice,Motors & Drives,Net 90,4.5,Y
+SUP0057,Summit GmbH,Manufacturer,Poland,Wroclaw,Sensors & Instrumentation,Net 90,3.6,Y
+SUP0058,Dynamic Precision Works,Manufacturer,Germany,Stuttgart,Cabling & Wiring,Advance Payment,3.8,Y
+SUP0059,Pacific Technologies,Manufacturer,Taiwan,Kaohsiung,Ropes & Suspension,Net 60,4.2,Y
+SUP0060,Sterling Precision Works,OEM Partner,Germany,Hamburg,Cabling & Wiring,Net 60,4.5,Y
+SUP0061,Central Industries,Component Fabricator,Germany,Stuttgart,Door Systems,Net 90,3.8,Y
+SUP0062,Prime Systems,Manufacturer,Vietnam,Ho Chi Minh City,Door Systems,Net 45,3.9,Y
+SUP0063,United Engineering Co.,Manufacturer,India,Chennai,Cabin Fittings,Net 60,3.4,Y
+SUP0064,Vantage Industries,Manufacturer,Germany,Hamburg,Cabling & Wiring,Net 45,3.4,Y
+SUP0065,Global Manufacturing,Distributor,Japan,Yokohama,Structural Steel,Net 60,4.4,Y
+SUP0066,Superior Manufacturing,Manufacturer,Italy,Milan,Door Systems,Net 30,4.7,Y
+SUP0067,Precision Motors Ltd.,Component Fabricator,India,Coimbatore,Guide Rails,Net 60,4.0,Y
+SUP0068,Sterling Systems,Manufacturer,South Korea,Busan,Guide Rails,Net 90,4.5,Y
+SUP0069,Sterling Manufacturing,OEM Partner,Japan,Osaka,Sensors & Instrumentation,Net 30,4.2,Y
+SUP0070,NovaTech Precision Works,Manufacturer,China,Shenzhen,Door Systems,Net 45,3.7,Y
+SUP0071,Sterling Precision Works,Component Fabricator,Italy,Turin,Fasteners & Hardware,Net 30,4.2,Y
+SUP0072,Precision Engineering Co.,Manufacturer,United States,Detroit,Fasteners & Hardware,Net 60,4.8,Y
+SUP0073,Pinnacle Fabrication,OEM Partner,India,Chennai,Hydraulic Components,Net 60,4.0,Y
+SUP0074,Zenith Components,OEM Partner,Japan,Osaka,Sensors & Instrumentation,Net 60,4.8,Y
+SUP0075,United Systems,OEM Partner,Germany,Stuttgart,Door Systems,Net 30,2.7,N
+SUP0076,Elite Corp.,OEM Partner,South Korea,Busan,Hydraulic Components,Net 45,4.4,Y
+SUP0077,Apex Precision Works,OEM Partner,India,Pune,Cabin Fittings,Net 30,4.0,Y
+SUP0078,Precision Manufacturing,OEM Partner,Germany,Stuttgart,Cabling & Wiring,Net 90,3.9,Y
+SUP0079,Pinnacle Industries,Distributor,China,Shanghai,Hydraulic Components,Net 30,4.0,Y
+SUP0080,Superior Motors Ltd.,Distributor,Poland,Wroclaw,Hydraulic Components,Net 60,3.0,Y
+SUP0081,Superior Technologies,OEM Partner,India,Coimbatore,Hydraulic Components,Net 90,3.9,Y
+SUP0082,Elite Fabrication,Manufacturer,Germany,Stuttgart,Guide Rails,Net 30,4.2,Y
+SUP0083,Elite GmbH,Manufacturer,United States,Cleveland,Control Electronics,Net 60,4.7,Y
+SUP0084,Vantage Electric,Component Fabricator,South Korea,Busan,Cabling & Wiring,Net 30,3.7,Y
+SUP0085,National Precision Works,Manufacturer,United States,Detroit,Cabin Fittings,Net 30,3.6,Y
+SUP0086,Global Systems,OEM Partner,United States,Chicago,Fasteners & Hardware,Net 90,3.7,N
+SUP0087,Pacific Corp.,Manufacturer,South Korea,Seoul,Ropes & Suspension,Net 30,4.5,Y
+SUP0088,Pacific Technologies,Distributor,Taiwan,Kaohsiung,Sensors & Instrumentation,Net 60,4.2,Y
+SUP0089,Elite Systems,Manufacturer,India,Pune,Motors & Drives,Net 45,3.7,Y
+SUP0090,Eastern Technologies,OEM Partner,United States,Cleveland,Cabling & Wiring,Advance Payment,4.3,Y
+SUP0091,Atlantic Technologies,Distributor,Vietnam,Ho Chi Minh City,Motors & Drives,Net 30,4.0,Y
+SUP0092,Central Fabrication,Manufacturer,Germany,Hamburg,Cabin Fittings,Net 30,4.5,Y
+SUP0093,Vantage Technologies,Manufacturer,United States,Detroit,Safety Components,Net 90,3.6,Y
+SUP0094,Zenith Motors Ltd.,Manufacturer,Japan,Yokohama,Door Systems,Net 60,3.8,Y
+SUP0095,Progressive Industries,OEM Partner,Germany,Stuttgart,Door Systems,Net 90,3.8,Y
+SUP0096,Summit Components,Distributor,China,Shanghai,Fasteners & Hardware,Net 90,3.3,Y
+SUP0097,Metro Electric,Manufacturer,Italy,Turin,Structural Steel,Net 60,4.1,Y
+SUP0098,Continental Engineering Co.,Manufacturer,South Korea,Seoul,Safety Components,Net 45,4.1,Y
+SUP0099,NovaTech Technologies,Component Fabricator,Germany,Munich,Control Electronics,Net 45,4.0,Y
+SUP0100,Summit Manufacturing,OEM Partner,Japan,Osaka,Guide Rails,Net 60,3.9,Y

@@ -1,0 +1,51 @@
+machine_id,machine_name,machine_type,plant_id,production_line,installation_date,machine_status
+MC001,Final Assembly Rig 01,Final Assembly Rig,PLANT01,LINE-B,2022-04-04,Operational
+MC002,CNC Machining Center 02,CNC Machining Center,PLANT02,LINE-A,2024-05-18,Operational
+MC003,Sheet Metal Press 03,Sheet Metal Press,PLANT03,LINE-D,2024-08-17,Operational
+MC004,Paint & Coating Booth 04,Paint & Coating Booth,PLANT03,LINE-A,2021-10-19,Under Maintenance
+MC005,Sheet Metal Press 05,Sheet Metal Press,PLANT01,LINE-A,2024-08-07,Operational
+MC006,Paint & Coating Booth 06,Paint & Coating Booth,PLANT01,LINE-C,2018-05-24,Operational
+MC007,Robotic Welding Cell 07,Robotic Welding Cell,PLANT04,LINE-D,2020-02-20,Operational
+MC008,PCB Assembly Line 08,PCB Assembly Line,PLANT02,LINE-A,2018-06-27,Operational
+MC009,Final Assembly Rig 09,Final Assembly Rig,PLANT01,LINE-C,2022-02-22,Under Maintenance
+MC010,Cabin Fabrication Cell 10,Cabin Fabrication Cell,PLANT02,LINE-B,2023-06-04,Operational
+MC011,Paint & Coating Booth 11,Paint & Coating Booth,PLANT01,LINE-C,2019-10-07,Operational
+MC012,CNC Machining Center 12,CNC Machining Center,PLANT03,LINE-C,2024-04-27,Operational
+MC013,Robotic Welding Cell 13,Robotic Welding Cell,PLANT03,LINE-C,2019-04-06,Under Maintenance
+MC014,CNC Machining Center 14,CNC Machining Center,PLANT04,LINE-A,2024-12-27,Operational
+MC015,Sheet Metal Press 15,Sheet Metal Press,PLANT02,LINE-A,2024-12-13,Operational
+MC016,Robotic Welding Cell 16,Robotic Welding Cell,PLANT03,LINE-A,2018-01-28,Operational
+MC017,Sheet Metal Press 17,Sheet Metal Press,PLANT02,LINE-A,2021-02-18,Operational
+MC018,PCB Assembly Line 18,PCB Assembly Line,PLANT01,LINE-C,2024-02-16,Under Maintenance
+MC019,Robotic Welding Cell 19,Robotic Welding Cell,PLANT03,LINE-D,2021-05-13,Operational
+MC020,PCB Assembly Line 20,PCB Assembly Line,PLANT04,LINE-A,2021-07-24,Operational
+MC021,Sheet Metal Press 21,Sheet Metal Press,PLANT02,LINE-A,2022-12-14,Operational
+MC022,Paint & Coating Booth 22,Paint & Coating Booth,PLANT04,LINE-A,2021-01-27,Idle
+MC023,Sheet Metal Press 23,Sheet Metal Press,PLANT03,LINE-C,2020-09-22,Operational
+MC024,Motor Winding Station 24,Motor Winding Station,PLANT04,LINE-A,2023-08-28,Operational
+MC025,Final Assembly Rig 25,Final Assembly Rig,PLANT02,LINE-D,2020-10-21,Operational
+MC026,Paint & Coating Booth 26,Paint & Coating Booth,PLANT01,LINE-C,2021-08-25,Idle
+MC027,Sheet Metal Press 27,Sheet Metal Press,PLANT01,LINE-A,2022-07-20,Idle
+MC028,Final Assembly Rig 28,Final Assembly Rig,PLANT04,LINE-D,2020-06-18,Operational
+MC029,Sheet Metal Press 29,Sheet Metal Press,PLANT01,LINE-C,2021-06-28,Operational
+MC030,Motor Winding Station 30,Motor Winding Station,PLANT02,LINE-B,2020-02-09,Operational
+MC031,Robotic Welding Cell 31,Robotic Welding Cell,PLANT01,LINE-A,2022-05-23,Operational
+MC032,CNC Machining Center 32,CNC Machining Center,PLANT03,LINE-D,2019-06-10,Operational
+MC033,Sheet Metal Press 33,Sheet Metal Press,PLANT01,LINE-C,2024-01-29,Operational
+MC034,Paint & Coating Booth 34,Paint & Coating Booth,PLANT03,LINE-A,2018-05-21,Under Maintenance
+MC035,Robotic Welding Cell 35,Robotic Welding Cell,PLANT02,LINE-A,2019-11-11,Operational
+MC036,Quality Test Rig 36,Quality Test Rig,PLANT01,LINE-B,2022-10-24,Operational
+MC037,PCB Assembly Line 37,PCB Assembly Line,PLANT04,LINE-C,2020-10-13,Operational
+MC038,Sheet Metal Press 38,Sheet Metal Press,PLANT03,LINE-C,2022-07-16,Operational
+MC039,Sheet Metal Press 39,Sheet Metal Press,PLANT02,LINE-D,2020-01-03,Operational
+MC040,Cabin Fabrication Cell 40,Cabin Fabrication Cell,PLANT04,LINE-C,2021-05-01,Operational
+MC041,Cabin Fabrication Cell 41,Cabin Fabrication Cell,PLANT04,LINE-D,2023-05-23,Operational
+MC042,PCB Assembly Line 42,PCB Assembly Line,PLANT02,LINE-C,2020-07-10,Operational
+MC043,Sheet Metal Press 43,Sheet Metal Press,PLANT03,LINE-A,2022-01-29,Operational
+MC044,Final Assembly Rig 44,Final Assembly Rig,PLANT03,LINE-A,2021-01-23,Operational
+MC045,Final Assembly Rig 45,Final Assembly Rig,PLANT01,LINE-A,2020-08-01,Under Maintenance
+MC046,PCB Assembly Line 46,PCB Assembly Line,PLANT01,LINE-B,2020-05-13,Operational
+MC047,Paint & Coating Booth 47,Paint & Coating Booth,PLANT03,LINE-D,2023-07-30,Idle
+MC048,CNC Machining Center 48,CNC Machining Center,PLANT03,LINE-B,2020-06-30,Operational
+MC049,Paint & Coating Booth 49,Paint & Coating Booth,PLANT01,LINE-C,2019-11-24,Operational
+MC050,Cabin Fabrication Cell 50,Cabin Fabrication Cell,PLANT01,LINE-A,2021-06-22,Operational

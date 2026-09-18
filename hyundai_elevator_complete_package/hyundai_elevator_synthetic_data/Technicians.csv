@@ -1,0 +1,101 @@
+technician_id,technician_name,specialization,location_id,experience_years
+TCH001,Peter Kim,Electrical & Control Systems,CHN,4
+TCH002,Anna Martinez,Hydraulics,USA,3
+TCH003,David Jones,Door Systems,UAE,7
+TCH004,Joseph Miller,Electrical & Control Systems,UAE,14
+TCH005,Jessica Smith,Door Systems,USA,19
+TCH006,Robert Jones,Sensor Diagnostics,SFO,6
+TCH007,William Johnson,Safety & Braking Systems,AUS,5
+TCH008,Min Brown,Hydraulics,YVR,1
+TCH009,Thomas Rossi,Motor & Drive Systems,CAN,22
+TCH010,Charles Rossi,Electrical & Control Systems,MEX,11
+TCH011,Fatima Garcia,Hydraulics,ENG,3
+TCH012,Suresh Rodriguez,Motor & Drive Systems,MEX,2
+TCH013,Michael Martinez,Safety & Braking Systems,CAN,10
+TCH014,Giulia Silva,Door Systems,BLR,5
+TCH015,Joseph Jones,General Mechanical,UAE,10
+TCH016,Anna Ferrari,General Mechanical,USA,5
+TCH017,Linda Ali,Motor & Drive Systems,MEX,13
+TCH018,Fatima Sato,General Mechanical,SYD,3
+TCH019,Li Ferrari,Cabling & Wiring,UAE,5
+TCH020,Fatima Schmidt,Safety & Braking Systems,FRA,4
+TCH021,Yuki Miller,Sensor Diagnostics,CAN,11
+TCH022,Joseph Kowalski,Electrical & Control Systems,MEC,9
+TCH023,Elizabeth Garcia,Safety & Braking Systems,CAN,7
+TCH024,Fatima Muller,Cabling & Wiring,CAN,6
+TCH025,Fatima Ali,Motor & Drive Systems,GER,8
+TCH026,Sofia Martinez,Motor & Drive Systems,BLR,13
+TCH027,Mary Smith,Motor & Drive Systems,AUS,4
+TCH028,Yuki Williams,Sensor Diagnostics,IND,17
+TCH029,Klaus Brown,Sensor Diagnostics,CAN,17
+TCH030,Jennifer Zhang,Electrical & Control Systems,DXB,19
+TCH031,Robert Nowak,Hydraulics,MEC,4
+TCH032,Hiro Johnson,Cabling & Wiring,CHN,15
+TCH033,Fatima Johnson,Safety & Braking Systems,SYD,4
+TCH034,Wei Tanaka,Cabling & Wiring,LHR,4
+TCH035,Joseph Wang,General Mechanical,BLR,7
+TCH036,Patricia Williams,Hydraulics,FRA,5
+TCH037,Jessica Muller,Door Systems,FRA,11
+TCH038,Sarah Rodriguez,General Mechanical,DXB,11
+TCH039,William Muller,Cabling & Wiring,PHL,12
+TCH040,Robert Muller,Door Systems,ENG,18
+TCH041,Carlos Smith,Safety & Braking Systems,FRA,11
+TCH042,Linda Jones,Door Systems,BLR,4
+TCH043,Raj Patel,Sensor Diagnostics,CAN,5
+TCH044,Min Wang,Cabling & Wiring,PVG,12
+TCH045,Charles Zhang,Hydraulics,FRA,12
+TCH046,James Ferrari,Sensor Diagnostics,USA,7
+TCH047,Joseph Muller,Safety & Braking Systems,BLR,6
+TCH048,Richard Johnson,Electrical & Control Systems,ENG,7
+TCH049,Michael Kim,Cabling & Wiring,PHL,8
+TCH050,Hiro Patel,Electrical & Control Systems,DXB,8
+TCH051,Min Patel,Electrical & Control Systems,IND,8
+TCH052,Peter Miller,Motor & Drive Systems,PHL,10
+TCH053,Klaus Jones,Sensor Diagnostics,MEX,6
+TCH054,Michael Johnson,Hydraulics,SYD,11
+TCH055,Robert Johnson,Electrical & Control Systems,MEC,5
+TCH056,Raj Brown,Motor & Drive Systems,GER,14
+TCH057,Giulia Silva,Electrical & Control Systems,BLR,13
+TCH058,Michael Ferrari,Safety & Braking Systems,LHR,10
+TCH059,Peter Nowak,Hydraulics,USA,11
+TCH060,Thomas Park,Door Systems,CAN,8
+TCH061,Peter Rodriguez,Electrical & Control Systems,MEC,16
+TCH062,Min Sato,Cabling & Wiring,CAN,14
+TCH063,Anna Patel,General Mechanical,MEX,18
+TCH064,Hiro Kowalski,Hydraulics,SFO,4
+TCH065,Giulia Sharma,Door Systems,MEC,10
+TCH066,Suresh Garcia,Safety & Braking Systems,USA,7
+TCH067,Robert Davis,Safety & Braking Systems,CAN,5
+TCH068,Marco Sato,Safety & Braking Systems,GER,3
+TCH069,Jennifer Tanaka,Door Systems,PVG,7
+TCH070,Suresh Rodriguez,Motor & Drive Systems,ENG,10
+TCH071,Hiro Hassan,Cabling & Wiring,SFO,4
+TCH072,Karen Kowalski,General Mechanical,SFO,10
+TCH073,Anna Tanaka,Door Systems,PHL,4
+TCH074,Anna Rossi,Motor & Drive Systems,BLR,9
+TCH075,Min Sato,Electrical & Control Systems,MEC,19
+TCH076,Nancy Martinez,Cabling & Wiring,SFO,4
+TCH077,Charles Ferrari,Electrical & Control Systems,AUS,3
+TCH078,Min Zhang,Door Systems,USA,14
+TCH079,John Schmidt,Hydraulics,CHN,7
+TCH080,James Wang,General Mechanical,CHN,8
+TCH081,Suresh Nowak,Safety & Braking Systems,USA,4
+TCH082,Hiro Park,Electrical & Control Systems,CHN,8
+TCH083,Patricia Wang,Cabling & Wiring,CAN,11
+TCH084,Joseph Tanaka,Door Systems,PHL,7
+TCH085,Ingrid Jones,Safety & Braking Systems,MEC,5
+TCH086,Jessica Smith,Cabling & Wiring,PVG,16
+TCH087,Ahmed Williams,Sensor Diagnostics,SYD,3
+TCH088,Yuki Williams,Electrical & Control Systems,SFO,15
+TCH089,Priya Brown,Motor & Drive Systems,MEX,1
+TCH090,Michael Schmidt,Hydraulics,UAE,4
+TCH091,Michael Zhang,Safety & Braking Systems,LHR,8
+TCH092,John Hassan,Sensor Diagnostics,IND,12
+TCH093,Jessica Wang,Door Systems,AUS,6
+TCH094,Giulia Silva,Cabling & Wiring,GER,12
+TCH095,Michael Jones,Door Systems,UAE,5
+TCH096,Elizabeth Silva,General Mechanical,UAE,7
+TCH097,James Brown,Sensor Diagnostics,SYD,6
+TCH098,Richard Muller,Door Systems,YVR,14
+TCH099,Ingrid Schmidt,Door Systems,UAE,1
+TCH100,Jennifer Hassan,Hydraulics,MEC,5

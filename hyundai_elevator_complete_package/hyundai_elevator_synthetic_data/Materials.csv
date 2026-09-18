@@ -1,0 +1,301 @@
+material_id,material_name,material_category,unit,standard_cost,supplier_id,lead_time_days,reorder_level,active_flag
+MAT00001,Traction Motor Unit - Premium,Motors & Drives,EA,59.42,SUP0046,16,41,Y
+MAT00002,Gearless Motor Assembly - Compact,Motors & Drives,EA,109.7,SUP0089,19,60,Y
+MAT00003,Variable Frequency Drive - Standard,Motors & Drives,KG,1613.54,SUP0056,22,56,Y
+MAT00004,Motor Brake Coil - Compact,Motors & Drives,KG,227.14,SUP0029,3,49,Y
+MAT00005,Encoder Feedback Unit - Premium,Motors & Drives,M,259.88,SUP0091,45,45,Y
+MAT00006,Traction Motor Unit - Premium,Motors & Drives,KG,330.81,SUP0056,20,20,Y
+MAT00007,Gearless Motor Assembly - Premium,Motors & Drives,M,767.26,SUP0046,28,69,Y
+MAT00008,Variable Frequency Drive - Standard,Motors & Drives,M,98.55,SUP0056,35,14,Y
+MAT00009,Motor Brake Coil - High-Speed,Motors & Drives,ROLL,440.04,SUP0091,42,25,Y
+MAT00010,Encoder Feedback Unit - Compact,Motors & Drives,EA,138.89,SUP0056,21,37,Y
+MAT00011,Traction Motor Unit - Heavy-Duty,Motors & Drives,KG,51.9,SUP0033,21,23,Y
+MAT00012,Gearless Motor Assembly - Compact,Motors & Drives,M,392.91,SUP0036,11,88,Y
+MAT00013,Variable Frequency Drive - Compact,Motors & Drives,ROLL,111.8,SUP0011,17,70,Y
+MAT00014,Motor Brake Coil - Heavy-Duty,Motors & Drives,EA,71.46,SUP0033,23,82,Y
+MAT00015,Encoder Feedback Unit - High-Speed,Motors & Drives,ROLL,49.03,SUP0033,22,56,Y
+MAT00016,Traction Motor Unit - High-Speed,Motors & Drives,KG,534.76,SUP0011,8,16,Y
+MAT00017,Gearless Motor Assembly - Heavy-Duty,Motors & Drives,KG,412.38,SUP0033,23,56,Y
+MAT00018,Variable Frequency Drive - Premium,Motors & Drives,M,346.0,SUP0056,14,55,Y
+MAT00019,Motor Brake Coil - Compact,Motors & Drives,KG,328.02,SUP0089,13,96,Y
+MAT00020,Encoder Feedback Unit - High-Speed,Motors & Drives,M,393.01,SUP0036,9,66,Y
+MAT00021,Traction Motor Unit - Standard,Motors & Drives,SET,92.33,SUP0046,28,78,Y
+MAT00022,Gearless Motor Assembly - Premium,Motors & Drives,SET,107.7,SUP0033,30,60,Y
+MAT00023,Variable Frequency Drive - High-Speed,Motors & Drives,M,556.72,SUP0091,39,43,Y
+MAT00024,Motor Brake Coil - Premium,Motors & Drives,ROLL,115.15,SUP0036,12,29,Y
+MAT00025,Encoder Feedback Unit - Heavy-Duty,Motors & Drives,M,226.53,SUP0033,24,56,Y
+MAT00026,Main Control PCB - Compact,Control Electronics,EA,559.58,SUP0099,21,86,Y
+MAT00027,I/O Expansion Board - Standard,Control Electronics,EA,187.79,SUP0099,48,65,Y
+MAT00028,Power Supply Module - Heavy-Duty,Control Electronics,KG,103.84,SUP0005,10,62,Y
+MAT00029,Control Panel Touch Display - Premium,Control Electronics,M,195.69,SUP0083,28,61,Y
+MAT00030,Relay Control Module - Compact,Control Electronics,SET,227.5,SUP0004,12,12,Y
+MAT00031,Main Control PCB - High-Speed,Control Electronics,EA,156.57,SUP0005,29,55,Y
+MAT00032,I/O Expansion Board - Standard,Control Electronics,ROLL,70.4,SUP0004,22,59,Y
+MAT00033,Power Supply Module - Premium,Control Electronics,M,101.1,SUP0005,22,51,Y
+MAT00034,Control Panel Touch Display - Standard,Control Electronics,ROLL,78.03,SUP0052,24,64,Y
+MAT00035,Relay Control Module - Premium,Control Electronics,SET,722.74,SUP0099,31,15,Y
+MAT00036,Main Control PCB - High-Speed,Control Electronics,M,95.79,SUP0052,26,62,Y
+MAT00037,I/O Expansion Board - Premium,Control Electronics,EA,409.55,SUP0005,59,64,Y
+MAT00038,Power Supply Module - Heavy-Duty,Control Electronics,SET,761.71,SUP0024,30,66,Y
+MAT00039,Control Panel Touch Display - Heavy-Duty,Control Electronics,SET,178.53,SUP0007,28,30,Y
+MAT00040,Relay Control Module - Heavy-Duty,Control Electronics,EA,193.09,SUP0052,16,52,Y
+MAT00041,Main Control PCB - Premium,Control Electronics,KG,2476.64,SUP0024,3,67,N
+MAT00042,I/O Expansion Board - Compact,Control Electronics,M,48.78,SUP0083,16,77,Y
+MAT00043,Power Supply Module - Heavy-Duty,Control Electronics,M,260.94,SUP0009,10,32,Y
+MAT00044,Control Panel Touch Display - Premium,Control Electronics,SET,482.8,SUP0007,13,55,Y
+MAT00045,Relay Control Module - Heavy-Duty,Control Electronics,EA,256.1,SUP0004,14,103,Y
+MAT00046,Main Control PCB - Compact,Control Electronics,ROLL,461.24,SUP0024,3,54,Y
+MAT00047,I/O Expansion Board - High-Speed,Control Electronics,M,126.24,SUP0052,29,30,Y
+MAT00048,Power Supply Module - Premium,Control Electronics,ROLL,218.17,SUP0083,26,71,Y
+MAT00049,Control Panel Touch Display - Premium,Control Electronics,EA,73.68,SUP0052,17,38,Y
+MAT00050,Relay Control Module - Premium,Control Electronics,M,127.32,SUP0004,38,60,Y
+MAT00051,Traveling Cable - Premium,Cabling & Wiring,ROLL,69.35,SUP0008,30,103,Y
+MAT00052,Flat Trailing Cable - Compact,Cabling & Wiring,ROLL,687.09,SUP0008,5,37,Y
+MAT00053,Signal Wiring Harness - Heavy-Duty,Cabling & Wiring,KG,868.62,SUP0090,13,61,Y
+MAT00054,Power Distribution Cable - Compact,Cabling & Wiring,SET,530.93,SUP0078,11,48,Y
+MAT00055,Fiber Optic Communication Cable - High-Speed,Cabling & Wiring,EA,9.57,SUP0084,10,43,Y
+MAT00056,Traveling Cable - Compact,Cabling & Wiring,M,70.26,SUP0020,37,14,Y
+MAT00057,Flat Trailing Cable - Compact,Cabling & Wiring,KG,157.58,SUP0084,22,86,Y
+MAT00058,Signal Wiring Harness - High-Speed,Cabling & Wiring,ROLL,58.21,SUP0008,32,50,Y
+MAT00059,Power Distribution Cable - Compact,Cabling & Wiring,M,91.7,SUP0064,25,54,Y
+MAT00060,Fiber Optic Communication Cable - High-Speed,Cabling & Wiring,ROLL,134.26,SUP0008,21,40,Y
+MAT00061,Traveling Cable - Premium,Cabling & Wiring,KG,274.11,SUP0078,27,89,Y
+MAT00062,Flat Trailing Cable - Premium,Cabling & Wiring,M,70.96,SUP0084,42,5,Y
+MAT00063,Signal Wiring Harness - Standard,Cabling & Wiring,SET,210.23,SUP0060,26,57,Y
+MAT00064,Power Distribution Cable - Compact,Cabling & Wiring,KG,131.28,SUP0084,18,37,Y
+MAT00065,Fiber Optic Communication Cable - Premium,Cabling & Wiring,SET,135.73,SUP0025,29,58,Y
+MAT00066,Traveling Cable - Standard,Cabling & Wiring,ROLL,122.38,SUP0078,29,57,Y
+MAT00067,Flat Trailing Cable - Standard,Cabling & Wiring,KG,551.62,SUP0020,27,29,Y
+MAT00068,Signal Wiring Harness - Heavy-Duty,Cabling & Wiring,KG,139.74,SUP0060,28,65,Y
+MAT00069,Power Distribution Cable - Compact,Cabling & Wiring,KG,239.63,SUP0084,22,81,Y
+MAT00070,Fiber Optic Communication Cable - Heavy-Duty,Cabling & Wiring,KG,135.43,SUP0090,26,44,Y
+MAT00071,Traveling Cable - Heavy-Duty,Cabling & Wiring,ROLL,196.83,SUP0090,31,70,Y
+MAT00072,Flat Trailing Cable - Heavy-Duty,Cabling & Wiring,EA,551.98,SUP0060,34,50,Y
+MAT00073,Signal Wiring Harness - High-Speed,Cabling & Wiring,M,483.94,SUP0090,17,58,Y
+MAT00074,Power Distribution Cable - Standard,Cabling & Wiring,M,214.83,SUP0060,21,64,Y
+MAT00075,Fiber Optic Communication Cable - Premium,Cabling & Wiring,KG,107.96,SUP0025,41,24,Y
+MAT00076,Door Operator Motor - High-Speed,Door Systems,M,72.66,SUP0066,32,69,Y
+MAT00077,Door Lock Mechanism - Premium,Door Systems,KG,456.74,SUP0075,27,49,Y
+MAT00078,Door Sill Track - Heavy-Duty,Door Systems,SET,99.76,SUP0095,21,33,Y
+MAT00079,Door Safety Edge Sensor - High-Speed,Door Systems,EA,648.8,SUP0066,19,29,Y
+MAT00080,Landing Door Panel - High-Speed,Door Systems,KG,177.44,SUP0043,25,35,Y
+MAT00081,Door Operator Motor - Standard,Door Systems,SET,107.53,SUP0094,23,56,Y
+MAT00082,Door Lock Mechanism - Compact,Door Systems,EA,147.39,SUP0075,16,55,Y
+MAT00083,Door Sill Track - High-Speed,Door Systems,EA,57.51,SUP0043,6,32,Y
+MAT00084,Door Safety Edge Sensor - Heavy-Duty,Door Systems,EA,197.66,SUP0075,24,86,Y
+MAT00085,Landing Door Panel - Compact,Door Systems,M,576.89,SUP0095,19,49,Y
+MAT00086,Door Operator Motor - Standard,Door Systems,M,89.79,SUP0094,20,42,Y
+MAT00087,Door Lock Mechanism - Compact,Door Systems,KG,337.89,SUP0094,12,62,N
+MAT00088,Door Sill Track - Standard,Door Systems,SET,1133.13,SUP0062,19,60,Y
+MAT00089,Door Safety Edge Sensor - Standard,Door Systems,KG,487.92,SUP0028,16,55,Y
+MAT00090,Landing Door Panel - Standard,Door Systems,KG,247.79,SUP0043,21,30,Y
+MAT00091,Door Operator Motor - Standard,Door Systems,EA,250.76,SUP0066,25,86,Y
+MAT00092,Door Lock Mechanism - Compact,Door Systems,M,638.6,SUP0066,42,30,Y
+MAT00093,Door Sill Track - Heavy-Duty,Door Systems,ROLL,585.41,SUP0070,22,104,Y
+MAT00094,Door Safety Edge Sensor - Heavy-Duty,Door Systems,SET,109.04,SUP0043,12,35,Y
+MAT00095,Landing Door Panel - High-Speed,Door Systems,ROLL,29.26,SUP0061,15,31,Y
+MAT00096,Door Operator Motor - Premium,Door Systems,SET,284.4,SUP0061,24,96,Y
+MAT00097,Door Lock Mechanism - Compact,Door Systems,KG,632.97,SUP0062,15,27,Y
+MAT00098,Door Sill Track - High-Speed,Door Systems,M,400.18,SUP0094,7,95,Y
+MAT00099,Door Safety Edge Sensor - High-Speed,Door Systems,M,795.87,SUP0095,16,7,Y
+MAT00100,Landing Door Panel - High-Speed,Door Systems,M,947.54,SUP0075,19,80,Y
+MAT00101,Overspeed Governor - Heavy-Duty,Safety Components,KG,49.68,SUP0098,15,50,Y
+MAT00102,Car Safety Gear Set - Heavy-Duty,Safety Components,KG,256.46,SUP0047,16,65,Y
+MAT00103,Emergency Stop Switch - Compact,Safety Components,M,84.13,SUP0010,19,53,Y
+MAT00104,Final Limit Switch - High-Speed,Safety Components,M,409.3,SUP0010,28,21,Y
+MAT00105,Buffer Spring Assembly - Standard,Safety Components,ROLL,52.77,SUP0093,33,58,Y
+MAT00106,Overspeed Governor - Compact,Safety Components,SET,115.76,SUP0047,36,52,Y
+MAT00107,Car Safety Gear Set - Heavy-Duty,Safety Components,SET,795.76,SUP0047,21,101,Y
+MAT00108,Emergency Stop Switch - Heavy-Duty,Safety Components,EA,1415.65,SUP0093,18,74,Y
+MAT00109,Final Limit Switch - Compact,Safety Components,KG,466.56,SUP0010,34,25,Y
+MAT00110,Buffer Spring Assembly - Heavy-Duty,Safety Components,EA,485.92,SUP0023,31,6,Y
+MAT00111,Overspeed Governor - High-Speed,Safety Components,SET,74.94,SUP0017,3,43,Y
+MAT00112,Car Safety Gear Set - Premium,Safety Components,M,501.47,SUP0047,36,51,Y
+MAT00113,Emergency Stop Switch - Compact,Safety Components,SET,1247.15,SUP0023,7,7,Y
+MAT00114,Final Limit Switch - High-Speed,Safety Components,M,231.47,SUP0093,24,49,Y
+MAT00115,Buffer Spring Assembly - Standard,Safety Components,KG,30.96,SUP0010,20,17,Y
+MAT00116,Overspeed Governor - Heavy-Duty,Safety Components,KG,478.03,SUP0098,24,26,Y
+MAT00117,Car Safety Gear Set - Compact,Safety Components,EA,146.37,SUP0098,10,48,Y
+MAT00118,Emergency Stop Switch - Compact,Safety Components,ROLL,635.96,SUP0010,11,62,Y
+MAT00119,Final Limit Switch - Compact,Safety Components,ROLL,143.99,SUP0038,13,47,Y
+MAT00120,Buffer Spring Assembly - Compact,Safety Components,EA,86.9,SUP0093,15,20,Y
+MAT00121,Overspeed Governor - Standard,Safety Components,ROLL,1745.38,SUP0047,21,32,Y
+MAT00122,Car Safety Gear Set - Premium,Safety Components,SET,303.07,SUP0093,19,44,Y
+MAT00123,Emergency Stop Switch - High-Speed,Safety Components,M,452.22,SUP0093,28,36,Y
+MAT00124,Final Limit Switch - Heavy-Duty,Safety Components,EA,137.58,SUP0010,18,5,Y
+MAT00125,Buffer Spring Assembly - High-Speed,Safety Components,EA,53.78,SUP0010,34,91,Y
+MAT00126,Steel Suspension Rope - Premium,Ropes & Suspension,SET,190.75,SUP0059,26,57,Y
+MAT00127,Rope Termination Socket - Premium,Ropes & Suspension,KG,5318.15,SUP0087,32,46,Y
+MAT00128,Compensation Chain - Heavy-Duty,Ropes & Suspension,KG,94.11,SUP0087,4,55,Y
+MAT00129,Rope Guide Roller - High-Speed,Ropes & Suspension,ROLL,114.85,SUP0059,6,33,Y
+MAT00130,Wire Rope Lubricant - Compact,Ropes & Suspension,EA,82.97,SUP0087,37,72,Y
+MAT00131,Steel Suspension Rope - High-Speed,Ropes & Suspension,KG,242.75,SUP0006,35,51,Y
+MAT00132,Rope Termination Socket - Standard,Ropes & Suspension,M,103.41,SUP0087,36,63,Y
+MAT00133,Compensation Chain - Compact,Ropes & Suspension,EA,86.73,SUP0059,19,28,Y
+MAT00134,Rope Guide Roller - Standard,Ropes & Suspension,KG,61.39,SUP0006,30,97,Y
+MAT00135,Wire Rope Lubricant - Premium,Ropes & Suspension,EA,60.43,SUP0006,26,33,Y
+MAT00136,Steel Suspension Rope - Heavy-Duty,Ropes & Suspension,SET,150.34,SUP0087,15,28,Y
+MAT00137,Rope Termination Socket - Premium,Ropes & Suspension,SET,256.86,SUP0087,12,56,Y
+MAT00138,Compensation Chain - Heavy-Duty,Ropes & Suspension,M,232.7,SUP0006,18,27,Y
+MAT00139,Rope Guide Roller - Premium,Ropes & Suspension,EA,137.45,SUP0059,28,62,Y
+MAT00140,Wire Rope Lubricant - Heavy-Duty,Ropes & Suspension,SET,92.06,SUP0087,21,68,Y
+MAT00141,Steel Suspension Rope - Heavy-Duty,Ropes & Suspension,EA,46.09,SUP0087,26,33,Y
+MAT00142,Rope Termination Socket - Heavy-Duty,Ropes & Suspension,EA,432.94,SUP0059,13,5,Y
+MAT00143,Compensation Chain - Heavy-Duty,Ropes & Suspension,ROLL,48.06,SUP0059,21,56,N
+MAT00144,Rope Guide Roller - Compact,Ropes & Suspension,EA,99.06,SUP0006,27,8,Y
+MAT00145,Wire Rope Lubricant - Premium,Ropes & Suspension,EA,229.05,SUP0087,8,33,Y
+MAT00146,Steel Suspension Rope - High-Speed,Ropes & Suspension,M,256.57,SUP0087,12,40,Y
+MAT00147,Rope Termination Socket - High-Speed,Ropes & Suspension,ROLL,669.34,SUP0006,15,70,Y
+MAT00148,Compensation Chain - Standard,Ropes & Suspension,ROLL,79.07,SUP0059,26,86,Y
+MAT00149,Rope Guide Roller - Standard,Ropes & Suspension,EA,20.66,SUP0059,13,64,Y
+MAT00150,Wire Rope Lubricant - High-Speed,Ropes & Suspension,EA,199.73,SUP0059,24,34,Y
+MAT00151,Cabin Wall Panel - High-Speed,Cabin Fittings,EA,266.82,SUP0032,19,79,Y
+MAT00152,Handrail Assembly - Heavy-Duty,Cabin Fittings,EA,315.58,SUP0045,24,39,Y
+MAT00153,Ceiling Light Fixture - Premium,Cabin Fittings,ROLL,150.26,SUP0092,16,59,Y
+MAT00154,Cabin Floor Mat - Premium,Cabin Fittings,ROLL,160.62,SUP0063,23,101,Y
+MAT00155,Operating Panel Buttons - Premium,Cabin Fittings,KG,584.72,SUP0032,17,80,Y
+MAT00156,Cabin Wall Panel - Standard,Cabin Fittings,ROLL,162.7,SUP0092,3,24,Y
+MAT00157,Handrail Assembly - High-Speed,Cabin Fittings,KG,37.68,SUP0045,17,50,Y
+MAT00158,Ceiling Light Fixture - High-Speed,Cabin Fittings,KG,1308.24,SUP0077,24,44,Y
+MAT00159,Cabin Floor Mat - Compact,Cabin Fittings,KG,560.82,SUP0063,3,55,Y
+MAT00160,Operating Panel Buttons - Compact,Cabin Fittings,SET,528.93,SUP0092,6,78,Y
+MAT00161,Cabin Wall Panel - Standard,Cabin Fittings,EA,343.26,SUP0032,16,65,Y
+MAT00162,Handrail Assembly - Standard,Cabin Fittings,M,2370.11,SUP0045,22,56,Y
+MAT00163,Ceiling Light Fixture - Premium,Cabin Fittings,ROLL,154.57,SUP0085,12,70,Y
+MAT00164,Cabin Floor Mat - Standard,Cabin Fittings,KG,103.95,SUP0063,21,38,Y
+MAT00165,Operating Panel Buttons - High-Speed,Cabin Fittings,EA,395.04,SUP0063,24,75,Y
+MAT00166,Cabin Wall Panel - Compact,Cabin Fittings,EA,146.93,SUP0085,18,25,Y
+MAT00167,Handrail Assembly - Heavy-Duty,Cabin Fittings,KG,156.92,SUP0045,24,68,Y
+MAT00168,Ceiling Light Fixture - Compact,Cabin Fittings,ROLL,97.3,SUP0063,29,83,Y
+MAT00169,Cabin Floor Mat - Compact,Cabin Fittings,ROLL,369.97,SUP0045,39,30,Y
+MAT00170,Operating Panel Buttons - Premium,Cabin Fittings,ROLL,70.48,SUP0085,3,87,Y
+MAT00171,Cabin Wall Panel - Premium,Cabin Fittings,EA,470.77,SUP0085,20,56,Y
+MAT00172,Handrail Assembly - Compact,Cabin Fittings,EA,79.4,SUP0045,45,53,Y
+MAT00173,Ceiling Light Fixture - Compact,Cabin Fittings,M,272.98,SUP0063,28,62,N
+MAT00174,Cabin Floor Mat - Heavy-Duty,Cabin Fittings,ROLL,306.09,SUP0092,13,61,Y
+MAT00175,Operating Panel Buttons - Heavy-Duty,Cabin Fittings,EA,1606.84,SUP0032,34,89,Y
+MAT00176,Hydraulic Cylinder - Heavy-Duty,Hydraulic Components,KG,146.76,SUP0073,11,46,Y
+MAT00177,Hydraulic Pump Unit - Heavy-Duty,Hydraulic Components,M,258.71,SUP0037,31,7,Y
+MAT00178,Hydraulic Valve Block - Premium,Hydraulic Components,ROLL,1129.52,SUP0019,19,39,Y
+MAT00179,Hydraulic Hose Assembly - Heavy-Duty,Hydraulic Components,SET,88.93,SUP0080,4,70,N
+MAT00180,Oil Filter Cartridge - Standard,Hydraulic Components,M,263.31,SUP0076,8,17,Y
+MAT00181,Hydraulic Cylinder - High-Speed,Hydraulic Components,ROLL,174.9,SUP0076,37,43,Y
+MAT00182,Hydraulic Pump Unit - Heavy-Duty,Hydraulic Components,ROLL,54.43,SUP0019,18,43,Y
+MAT00183,Hydraulic Valve Block - Standard,Hydraulic Components,M,16.5,SUP0081,20,44,Y
+MAT00184,Hydraulic Hose Assembly - High-Speed,Hydraulic Components,ROLL,490.88,SUP0081,39,78,Y
+MAT00185,Oil Filter Cartridge - Heavy-Duty,Hydraulic Components,KG,187.0,SUP0080,9,114,Y
+MAT00186,Hydraulic Cylinder - Heavy-Duty,Hydraulic Components,M,259.62,SUP0035,21,49,Y
+MAT00187,Hydraulic Pump Unit - Compact,Hydraulic Components,M,298.3,SUP0048,19,35,Y
+MAT00188,Hydraulic Valve Block - High-Speed,Hydraulic Components,KG,141.62,SUP0031,20,36,Y
+MAT00189,Hydraulic Hose Assembly - Premium,Hydraulic Components,SET,119.96,SUP0079,22,43,Y
+MAT00190,Oil Filter Cartridge - Compact,Hydraulic Components,EA,1101.02,SUP0073,3,77,Y
+MAT00191,Hydraulic Cylinder - Standard,Hydraulic Components,KG,850.72,SUP0013,3,41,Y
+MAT00192,Hydraulic Pump Unit - Standard,Hydraulic Components,M,168.77,SUP0080,6,30,Y
+MAT00193,Hydraulic Valve Block - High-Speed,Hydraulic Components,KG,80.59,SUP0037,38,73,Y
+MAT00194,Hydraulic Hose Assembly - Standard,Hydraulic Components,M,872.67,SUP0031,28,21,Y
+MAT00195,Oil Filter Cartridge - Premium,Hydraulic Components,KG,144.82,SUP0048,25,19,Y
+MAT00196,Hydraulic Cylinder - Standard,Hydraulic Components,SET,499.2,SUP0073,18,40,Y
+MAT00197,Hydraulic Pump Unit - Premium,Hydraulic Components,EA,498.18,SUP0073,25,40,Y
+MAT00198,Hydraulic Valve Block - Compact,Hydraulic Components,SET,780.03,SUP0048,10,65,Y
+MAT00199,Hydraulic Hose Assembly - Standard,Hydraulic Components,ROLL,442.79,SUP0081,17,58,Y
+MAT00200,Oil Filter Cartridge - Premium,Hydraulic Components,SET,70.03,SUP0048,30,45,Y
+MAT00201,Load Weighing Sensor - Heavy-Duty,Sensors & Instrumentation,SET,145.08,SUP0015,31,32,Y
+MAT00202,Vibration Sensor - Heavy-Duty,Sensors & Instrumentation,SET,59.83,SUP0049,5,65,Y
+MAT00203,Position Encoder - Standard,Sensors & Instrumentation,SET,68.0,SUP0074,38,5,Y
+MAT00204,Temperature Sensor - High-Speed,Sensors & Instrumentation,ROLL,1334.69,SUP0074,23,47,Y
+MAT00205,Door Zone Sensor - Premium,Sensors & Instrumentation,ROLL,141.89,SUP0034,24,49,Y
+MAT00206,Load Weighing Sensor - Compact,Sensors & Instrumentation,SET,737.53,SUP0041,22,53,Y
+MAT00207,Vibration Sensor - High-Speed,Sensors & Instrumentation,M,170.1,SUP0074,20,57,Y
+MAT00208,Position Encoder - Standard,Sensors & Instrumentation,M,44.25,SUP0044,7,68,Y
+MAT00209,Temperature Sensor - High-Speed,Sensors & Instrumentation,KG,290.29,SUP0001,19,50,Y
+MAT00210,Door Zone Sensor - Compact,Sensors & Instrumentation,EA,346.4,SUP0057,15,30,Y
+MAT00211,Load Weighing Sensor - Standard,Sensors & Instrumentation,ROLL,297.63,SUP0049,11,60,Y
+MAT00212,Vibration Sensor - High-Speed,Sensors & Instrumentation,ROLL,44.59,SUP0044,31,61,Y
+MAT00213,Position Encoder - Standard,Sensors & Instrumentation,KG,316.09,SUP0074,30,91,Y
+MAT00214,Temperature Sensor - Heavy-Duty,Sensors & Instrumentation,M,674.77,SUP0049,3,18,Y
+MAT00215,Door Zone Sensor - Heavy-Duty,Sensors & Instrumentation,EA,131.0,SUP0041,21,62,Y
+MAT00216,Load Weighing Sensor - Compact,Sensors & Instrumentation,EA,118.42,SUP0044,22,31,Y
+MAT00217,Vibration Sensor - Standard,Sensors & Instrumentation,SET,132.75,SUP0069,6,26,Y
+MAT00218,Position Encoder - High-Speed,Sensors & Instrumentation,ROLL,63.33,SUP0044,11,76,Y
+MAT00219,Temperature Sensor - Compact,Sensors & Instrumentation,M,94.69,SUP0030,47,62,Y
+MAT00220,Door Zone Sensor - Compact,Sensors & Instrumentation,ROLL,294.37,SUP0001,12,67,Y
+MAT00221,Load Weighing Sensor - Compact,Sensors & Instrumentation,EA,137.6,SUP0034,22,114,Y
+MAT00222,Vibration Sensor - High-Speed,Sensors & Instrumentation,M,222.28,SUP0030,32,32,Y
+MAT00223,Position Encoder - Premium,Sensors & Instrumentation,SET,236.28,SUP0034,38,34,Y
+MAT00224,Temperature Sensor - Heavy-Duty,Sensors & Instrumentation,M,1498.84,SUP0030,28,35,Y
+MAT00225,Door Zone Sensor - High-Speed,Sensors & Instrumentation,SET,460.54,SUP0049,30,65,Y
+MAT00226,Anchor Bolt Set - Standard,Fasteners & Hardware,M,50.9,SUP0096,13,43,Y
+MAT00227,Guide Rail Bracket - Compact,Fasteners & Hardware,SET,227.14,SUP0096,27,54,Y
+MAT00228,Structural Fastener Kit - High-Speed,Fasteners & Hardware,ROLL,64.37,SUP0071,24,65,N
+MAT00229,Rail Clip Assembly - Compact,Fasteners & Hardware,SET,428.29,SUP0040,31,70,Y
+MAT00230,Vibration Damping Pad - High-Speed,Fasteners & Hardware,SET,387.29,SUP0040,20,8,Y
+MAT00231,Anchor Bolt Set - Heavy-Duty,Fasteners & Hardware,EA,376.01,SUP0055,23,56,Y
+MAT00232,Guide Rail Bracket - Standard,Fasteners & Hardware,ROLL,68.26,SUP0096,10,76,Y
+MAT00233,Structural Fastener Kit - Premium,Fasteners & Hardware,EA,235.2,SUP0071,27,50,Y
+MAT00234,Rail Clip Assembly - Premium,Fasteners & Hardware,SET,252.08,SUP0072,30,37,Y
+MAT00235,Vibration Damping Pad - Heavy-Duty,Fasteners & Hardware,ROLL,269.38,SUP0021,16,39,Y
+MAT00236,Anchor Bolt Set - Standard,Fasteners & Hardware,KG,179.62,SUP0071,23,38,Y
+MAT00237,Guide Rail Bracket - Heavy-Duty,Fasteners & Hardware,KG,858.99,SUP0055,12,45,Y
+MAT00238,Structural Fastener Kit - High-Speed,Fasteners & Hardware,SET,157.63,SUP0096,35,54,Y
+MAT00239,Rail Clip Assembly - High-Speed,Fasteners & Hardware,SET,686.66,SUP0071,6,56,Y
+MAT00240,Vibration Damping Pad - Premium,Fasteners & Hardware,KG,595.64,SUP0086,21,76,Y
+MAT00241,Anchor Bolt Set - High-Speed,Fasteners & Hardware,ROLL,145.87,SUP0096,35,107,Y
+MAT00242,Guide Rail Bracket - Heavy-Duty,Fasteners & Hardware,SET,170.23,SUP0021,16,86,Y
+MAT00243,Structural Fastener Kit - Standard,Fasteners & Hardware,KG,1187.46,SUP0071,15,39,Y
+MAT00244,Rail Clip Assembly - Standard,Fasteners & Hardware,ROLL,184.6,SUP0014,7,27,Y
+MAT00245,Vibration Damping Pad - Heavy-Duty,Fasteners & Hardware,M,89.65,SUP0086,13,49,Y
+MAT00246,Anchor Bolt Set - Heavy-Duty,Fasteners & Hardware,KG,309.27,SUP0014,36,25,Y
+MAT00247,Guide Rail Bracket - Heavy-Duty,Fasteners & Hardware,KG,654.8,SUP0071,18,48,Y
+MAT00248,Structural Fastener Kit - High-Speed,Fasteners & Hardware,EA,480.5,SUP0072,9,59,Y
+MAT00249,Rail Clip Assembly - Heavy-Duty,Fasteners & Hardware,KG,289.01,SUP0014,25,57,Y
+MAT00250,Vibration Damping Pad - Standard,Fasteners & Hardware,M,2850.64,SUP0014,14,36,Y
+MAT00251,T-Type Guide Rail - Compact,Guide Rails,SET,131.22,SUP0051,15,34,N
+MAT00252,Guide Rail Fishplate - High-Speed,Guide Rails,SET,803.53,SUP0100,35,35,Y
+MAT00253,Guide Shoe Assembly - High-Speed,Guide Rails,ROLL,106.45,SUP0016,25,36,Y
+MAT00254,Rail Lubrication Unit - Standard,Guide Rails,M,460.79,SUP0051,23,12,Y
+MAT00255,Counterweight Guide Rail - Premium,Guide Rails,ROLL,1149.99,SUP0068,38,34,Y
+MAT00256,T-Type Guide Rail - Compact,Guide Rails,SET,166.05,SUP0053,23,58,Y
+MAT00257,Guide Rail Fishplate - Heavy-Duty,Guide Rails,KG,472.74,SUP0082,41,45,Y
+MAT00258,Guide Shoe Assembly - High-Speed,Guide Rails,EA,110.13,SUP0016,7,31,Y
+MAT00259,Rail Lubrication Unit - High-Speed,Guide Rails,ROLL,236.72,SUP0068,38,37,N
+MAT00260,Counterweight Guide Rail - Premium,Guide Rails,ROLL,306.06,SUP0051,20,79,Y
+MAT00261,T-Type Guide Rail - Compact,Guide Rails,KG,3062.33,SUP0016,15,37,Y
+MAT00262,Guide Rail Fishplate - Heavy-Duty,Guide Rails,ROLL,695.17,SUP0067,27,96,Y
+MAT00263,Guide Shoe Assembly - Standard,Guide Rails,ROLL,438.75,SUP0053,17,64,Y
+MAT00264,Rail Lubrication Unit - Premium,Guide Rails,ROLL,741.52,SUP0068,29,62,Y
+MAT00265,Counterweight Guide Rail - Premium,Guide Rails,ROLL,711.0,SUP0016,32,84,Y
+MAT00266,T-Type Guide Rail - High-Speed,Guide Rails,EA,468.11,SUP0082,19,53,Y
+MAT00267,Guide Rail Fishplate - Compact,Guide Rails,M,817.71,SUP0082,12,59,N
+MAT00268,Guide Shoe Assembly - Standard,Guide Rails,M,165.12,SUP0051,21,81,Y
+MAT00269,Rail Lubrication Unit - Standard,Guide Rails,ROLL,296.22,SUP0082,21,16,Y
+MAT00270,Counterweight Guide Rail - Heavy-Duty,Guide Rails,EA,516.08,SUP0053,27,104,Y
+MAT00271,T-Type Guide Rail - Heavy-Duty,Guide Rails,KG,179.87,SUP0082,23,56,Y
+MAT00272,Guide Rail Fishplate - Heavy-Duty,Guide Rails,SET,1184.95,SUP0016,20,56,Y
+MAT00273,Guide Shoe Assembly - High-Speed,Guide Rails,EA,449.39,SUP0053,22,38,Y
+MAT00274,Rail Lubrication Unit - Heavy-Duty,Guide Rails,EA,297.11,SUP0053,31,24,Y
+MAT00275,Counterweight Guide Rail - Premium,Guide Rails,KG,279.49,SUP0100,13,79,Y
+MAT00276,Machine Room Steel Frame - Compact,Structural Steel,EA,53.35,SUP0026,15,59,Y
+MAT00277,Pit Steel Structure - Standard,Structural Steel,M,1170.9,SUP0050,20,36,Y
+MAT00278,Counterweight Frame - Compact,Structural Steel,KG,1605.45,SUP0065,6,5,Y
+MAT00279,Car Sling Frame - High-Speed,Structural Steel,M,379.94,SUP0026,15,24,Y
+MAT00280,Cross Head Beam - High-Speed,Structural Steel,M,496.88,SUP0097,23,35,Y
+MAT00281,Machine Room Steel Frame - Standard,Structural Steel,KG,68.01,SUP0003,29,66,Y
+MAT00282,Pit Steel Structure - Heavy-Duty,Structural Steel,ROLL,221.59,SUP0050,39,23,Y
+MAT00283,Counterweight Frame - Standard,Structural Steel,M,53.22,SUP0050,14,48,Y
+MAT00284,Car Sling Frame - Premium,Structural Steel,KG,312.1,SUP0026,18,58,Y
+MAT00285,Cross Head Beam - Compact,Structural Steel,KG,70.0,SUP0003,35,47,Y
+MAT00286,Machine Room Steel Frame - Compact,Structural Steel,ROLL,747.92,SUP0065,24,61,Y
+MAT00287,Pit Steel Structure - Standard,Structural Steel,EA,432.58,SUP0065,25,66,Y
+MAT00288,Counterweight Frame - Heavy-Duty,Structural Steel,EA,924.41,SUP0026,22,67,Y
+MAT00289,Car Sling Frame - High-Speed,Structural Steel,EA,223.69,SUP0026,35,33,Y
+MAT00290,Cross Head Beam - Compact,Structural Steel,M,1481.69,SUP0065,20,14,Y
+MAT00291,Machine Room Steel Frame - Standard,Structural Steel,ROLL,278.13,SUP0026,14,71,Y
+MAT00292,Pit Steel Structure - Compact,Structural Steel,M,127.41,SUP0065,16,5,Y
+MAT00293,Counterweight Frame - Premium,Structural Steel,SET,155.66,SUP0097,3,10,Y
+MAT00294,Car Sling Frame - Compact,Structural Steel,M,523.44,SUP0026,28,60,Y
+MAT00295,Cross Head Beam - Standard,Structural Steel,SET,93.04,SUP0065,20,49,Y
+MAT00296,Machine Room Steel Frame - Premium,Structural Steel,EA,76.83,SUP0050,36,71,Y
+MAT00297,Pit Steel Structure - High-Speed,Structural Steel,SET,196.18,SUP0097,21,55,Y
+MAT00298,Counterweight Frame - High-Speed,Structural Steel,SET,31.76,SUP0003,18,32,Y
+MAT00299,Car Sling Frame - Standard,Structural Steel,KG,89.87,SUP0026,18,94,Y
+MAT00300,Cross Head Beam - High-Speed,Structural Steel,EA,464.44,SUP0050,15,64,Y

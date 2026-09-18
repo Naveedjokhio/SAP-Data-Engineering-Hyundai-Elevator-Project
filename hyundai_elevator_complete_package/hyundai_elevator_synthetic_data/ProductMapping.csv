@@ -1,0 +1,35 @@
+sap_product_id,elevator_component_id,elevator_component_category,component_description
+CM-FL-V00,ELVCOMP001,Rope & Suspension,Steel suspension ropes and terminations
+FG226,ELVCOMP002,Buffer System,Car and counterweight oil/spring buffers
+M-01,ELVCOMP003,Guide Rail System,Car and counterweight guide rail set
+M1,ELVCOMP004,Safety Gear,Car safety gear / brake mechanism
+MZ-FG-C10,ELVCOMP005,Inverter/Drive Unit,Variable frequency drive unit for motor control
+MZ-FG-C20,ELVCOMP006,Emergency Communication Unit,Intercom / emergency alarm communication device
+MZ-FG-C21,ELVCOMP007,Governor Assembly,Overspeed governor and rope safety mechanism
+MZ-FG-C900,ELVCOMP008,Control Panel,Main elevator control and logic panel (PCB-based)
+MZ-FG-C950,ELVCOMP009,Counterweight Assembly,Counterweight frame and filler weights
+MZ-FG-C990,ELVCOMP010,Door Operator,"Automatic door operator mechanism, car and landing side"
+MZ-FG-E101,ELVCOMP011,Cabin Assembly,Elevator cabin/car shell and interior fittings
+MZ-FG-E102,ELVCOMP012,Position Indicator,Car and hall position/direction indicator unit
+MZ-FG-E103,ELVCOMP013,Traction Machine,Gearless traction machine assembly for passenger elevators
+MZ-FG-E108,ELVCOMP014,Elevator Motor,AC synchronous drive motor unit
+MZ-FG-E15,ELVCOMP015,Landing Door System,"Landing door panels, sills and locking devices"
+MZ-FG-E16,ELVCOMP016,Rope & Suspension,Steel suspension ropes and terminations
+MZ-FG-E17,ELVCOMP017,Buffer System,Car and counterweight oil/spring buffers
+MZ-FG-M500,ELVCOMP018,Guide Rail System,Car and counterweight guide rail set
+MZ-FG-M525,ELVCOMP019,Safety Gear,Car safety gear / brake mechanism
+MZ-FG-M550,ELVCOMP020,Inverter/Drive Unit,Variable frequency drive unit for motor control
+MZ-FG-P010,ELVCOMP021,Emergency Communication Unit,Intercom / emergency alarm communication device
+MZ-FG-R100,ELVCOMP022,Governor Assembly,Overspeed governor and rope safety mechanism
+MZ-FG-R200,ELVCOMP023,Control Panel,Main elevator control and logic panel (PCB-based)
+MZ-FG-R300,ELVCOMP024,Counterweight Assembly,Counterweight frame and filler weights
+MZ-TG-A20,ELVCOMP025,Door Operator,"Automatic door operator mechanism, car and landing side"
+MZ-TG-A25,ELVCOMP026,Cabin Assembly,Elevator cabin/car shell and interior fittings
+MZ-TG-A26,ELVCOMP027,Position Indicator,Car and hall position/direction indicator unit
+MZ-TG-A27,ELVCOMP028,Traction Machine,Gearless traction machine assembly for passenger elevators
+MZ-TG-E202,ELVCOMP029,Elevator Motor,AC synchronous drive motor unit
+MZ-TG-SR01,ELVCOMP030,Landing Door System,"Landing door panels, sills and locking devices"
+MZ-TG-Y120,ELVCOMP031,Rope & Suspension,Steel suspension ropes and terminations
+MZ-TG-Y200,ELVCOMP032,Buffer System,Car and counterweight oil/spring buffers
+MZ-TG-Y240,ELVCOMP033,Guide Rail System,Car and counterweight guide rail set
+TG11,ELVCOMP034,Safety Gear,Car safety gear / brake mechanism
