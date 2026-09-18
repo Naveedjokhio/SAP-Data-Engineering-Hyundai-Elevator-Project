@@ -1,8 +1,8 @@
-# Hyundai Elevator — SAP Data & Analytics Intelligence Platform
+# Hyundai Elevator SAP Data & Analytics Intelligence Platform
 
 **Enterprise Data Engineering • SAP Datasphere • SAP Analytics Cloud • AWS S3 • IoT Analytics**
 
-Developed by **Naveed Jokhio — Data Engineer**
+Developed by **Naveed Jokhio Data Engineer**
 
 > Educational engineering case-study implementation inspired by the public Hyundai Elevator / SAP customer story. The project implementation is clearly separated from Hyundai Elevator's documented production solution.
 
