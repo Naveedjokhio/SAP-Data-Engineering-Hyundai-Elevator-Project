@@ -7,7 +7,7 @@ Developed by **Naveed Jokhio Data Engineer**
 > Educational engineering case-study implementation inspired by the public Hyundai Elevator / SAP customer story. The project implementation is clearly separated from Hyundai Elevator's documented production solution.
 
 ### SAP Analytics Cloud — Executive IoT Dashboard
-<img width="640" height="370" alt="63cb9254-cb27-4850-9867-cb1b23a87ce0" src="https://github.com/user-attachments/assets/03db5eb8-782a-478a-bcea-cc81bbfa8634" />
+<img width="577" height="415" alt="image" src="https://github.com/user-attachments/assets/89ea0685-3e36-4505-8d48-7c2f379123af" />
 
 
 ## Table of Contents
